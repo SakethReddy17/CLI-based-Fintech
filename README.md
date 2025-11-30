@@ -4,7 +4,7 @@
 ##### Cryptography Final Project to create an fintech application. The main assignment of this project is to used 3 or more security concepts to implement in app. We use SHA-256 and salt to encrypt password , AES-128 to encrypt database file,  LSFR to make Random Generated Number, and 2 FA security that uses Google Authenticator to login into an account
 
 ### Installation
-1. ```git clone https://github.com/michael-halim/crypto-project```
+1. ```git clone https://github.com/SakethReddy17/crypto-project```
 2. ```python main.py``` or ```Ctrl + F5``` in main.py in VSCode
 
 #### App Feature
@@ -61,3 +61,4 @@
 #### History Table
 | id | datetime | judul | jenis | nominal | pengirim | penerima |
 | -- | -------- | ----- | ----- | ------- | -------- | -------- |
+
